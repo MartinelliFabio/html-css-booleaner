@@ -1,5 +1,10 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+main {
+    padding: 5px;
 }
 
 .img-background {
@@ -18,4 +23,8 @@
 
 .color-highlighter {
     background-color: yellow;
+}
+
+.list {
+    padding: 15px 15px;
 }
