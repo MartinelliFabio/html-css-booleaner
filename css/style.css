@@ -1,3 +1,4 @@
+/* Css globale */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -16,6 +17,16 @@ h1 {
     font-size: 50px;
 }
 
+table {
+    border-collapse: collapse;
+}
+
+footer {
+    padding: 5px;;
+}
+
+
+/* Css per le classi singole */
 .first-p {
     font-size: 20px;
     color: gray;
@@ -52,30 +63,22 @@ h1 {
     padding: 15px 15px;
 }
 
-table {
-    border-collapse: collapse;
-}
-
 .head-table {
     text-align: left;
     background-color: rgb(33, 135, 175);
     color: white;
 }
 
-.thead-1 {
+.th-1 {
     width: 25%;
 }
 
-.thead-2 {
+.th-2 {
     width: 50%;
 }
 
 .tr-color {
     background-color: skyblue;
-}
-
-footer {
-    padding: 5px;;
 }
 
 .color-title {
