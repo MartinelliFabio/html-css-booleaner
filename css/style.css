@@ -28,3 +28,22 @@ main {
 .list {
     padding: 15px 15px;
 }
+
+.head-list {
+    text-align: left;
+    background-color: rgb(33, 135, 175);
+    color: white;
+}
+
+.thead-1 {
+    width: 25%;
+}
+
+.thead-2 {
+    width: 50%;
+}
+
+.tr-color {
+    background-color: skyblue;
+}
+
