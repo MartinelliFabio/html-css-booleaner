@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.img-background {
+    background-image: url("../img/pattern.png");
+    background: cover;
+    background-color: cornflowerblue;
+    height: 150px;
+    width: 100%;
+}
+
+#img-logo {
+    width: 250px;
+    padding-top: 80px;
+    position: absolute;
+}
+
+.color-highlighter {
+    background-color: yellow;
+}
